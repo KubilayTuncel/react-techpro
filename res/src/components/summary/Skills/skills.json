@@ -1,0 +1,23 @@
+[
+  {"name": "Java","value": "90"},
+  {"name": "JavaScript","value": "70"},
+  {"name": "TypeScript","value": "70"},
+  {"name": "Angular","value": "50"},
+  {"name": "React","value": "50"},
+  {"name": "Hibernate","value": "80"},
+  {"name": "JUnit","value": "90"},
+  {"name": "Git/GitHub","value": "90"},
+  {"name": "Docker","value": "60"},
+  {"name": "Kubernetes","value": "45"},
+  {"name": "SQL","value": "60"},
+  {"name": "JDBC","value": "60"},
+  {"name": "API","value": "80"},
+  {"name": "Postman","value": "90"},
+  {"name": "Pentaho","value": "90"},
+  {"name": "Jira","value": "90"},
+  {"name": "Agile/Scrum","value": "90"},
+  {"name": "Rest-Assured","value": "80"},
+  {"name": "Intellij","value": "90"},
+  {"name": "Eclipse","value": "90"},
+  {"name": "VSCode","value": "90"}
+]

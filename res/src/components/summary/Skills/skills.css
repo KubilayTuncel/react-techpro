@@ -1,0 +1,11 @@
+.skills .item{
+    margin-top: 10px;
+}
+
+.skills .item .skill-info span{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff;
+}
+

@@ -1,0 +1,27 @@
+.header .social-icons{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.header .social-icons ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header .social-icons ul li{
+    display: inline-block;
+    padding: 0 20px 0 0;
+}
+
+.header .social-icons ul li a{
+    color: black;
+}
+
+.header .social-icons ul li a svg{
+    font-size: 20px;
+}
+
+.header .social-icons ul li:last-child{
+    padding-right: 0;
+}

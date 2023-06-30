@@ -1,0 +1,10 @@
+.copyright{
+    bottom: 20px;
+}
+
+.copright span {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+}

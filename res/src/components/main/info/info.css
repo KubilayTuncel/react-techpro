@@ -1,0 +1,17 @@
+.info{
+    background-color: #313b47;
+    color: white;
+    padding: 20px;
+    margin: 30px 0 20px 20px;
+    position: relative;
+}
+
+.name,tile{
+    color: white;
+}
+
+.info-pragraf{
+    color: white !important;
+    line-height: 20px;
+}
+
