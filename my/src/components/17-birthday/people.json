@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "img.png",
+    "name": "Apple",
+    "age": 57
+  },
+  {
+    "id": 13,
+    "image": "img_1.png",
+    "name": "Sony",
+    "age": 27
+  },
+  {
+    "id": 19,
+    "image": "img_2.png",
+    "name": "Samsung",
+    "age": 54
+  },
+  {
+    "id": 134,
+    "image": "img_3.png",
+    "name": "Nokia",
+    "age": 17
+  },
+  {
+    "id": 15,
+    "image": "img_4.png",
+    "name": "Google",
+    "age": 44
+  },
+  {
+    "id": 11,
+    "image": "img_5.png",
+    "name": "Amazon",
+    "age": 11
+  }
+]

@@ -14,6 +14,19 @@ import Greetings from "../06-props/gretings";
 import ProductCard from "../07-props02/productCard";
 import Products from "../07-props02/products";
 import Clock2 from "../08-clock2/clock2";
+import Image from "../09-image/image";
+import Gallery from "../09-image/gallery";
+import ProfileCard from "../10-profile-card/profile-card";
+import BootstrapDynamic from "../11-bootstrap/bootstrap-dynamic";
+import Icon from "../12-icons/icon";
+import Events from "../13-events/events";
+import Shop from "../14-products/Shop";
+import State from "../15-usestate/useState";
+import Counter from "../16-counter/counter";
+import Birthday from "../17-birthday/birthday";
+import Clock3 from "../19-clock3/clock3";
+import Useeffect2 from "../18-useeffect/useeffect2";
+import CountryFilter from "../20-country-filter/country-filter";
 
 const HelloWorld = ()=>{
     return(
@@ -31,9 +44,22 @@ const HelloWorld = ()=>{
             <Jsx6/>
             <Clock1/>
             <Greetings/>
-            */}
             <Products/>
-            <Clock2 textColor="red" bgColor="yellow"/>
+            <Clock3 textColor="red" bgColor="yellow"/>
+            <Image/>
+            <Gallery/>
+             <ProfileCard avatar="KubilayTuncel.png" name="Kubilay Tuncel" location="Germany, Leipzig" shot="3" followers="1000" following="1"/>
+            <BootstrapDynamic/>
+            <Icon/>
+            <Events/>
+            <Shop/>
+            <State/>
+            <Counter/>
+            <Birthday/>
+            <Clock3/>
+            <Useeffect2/>
+            */}
+           <CountryFilter/>
         </div>
     )
 }

@@ -1,0 +1,70 @@
+.profile-card{
+  font-family: 'Poppins', sans-serif;
+  border: 2px solid gray;
+  border-radius: 1rem;
+  width: 500px;
+
+    .header{
+      height: 500px;
+      background-repeat:no-repeat ;
+      background-size: cover;
+      background-position: center 30%;
+      border-radius: 1rem 1rem 0 0;
+      position: relative;
+
+      &::after{
+        content:"";
+        background-color: rgba(217, 56, 38, 0.583);
+        position: absolute;
+        top: 0; left: 0; bottom: 0; right: 0;
+        border-radius: 1rem 1rem 0 0;
+      }
+    }
+
+  .content{
+    text-align: center;
+    color: rgb(54,54,54);
+
+    .avatar{
+      width: 150px;
+      height: 150px;
+      border-radius: 100px;
+      background-repeat: no-repeat;
+      background-size: 110%;
+      background-position: center 25%;
+      margin: 0 auto -75px;
+      transform: translateY(-50%);
+      border: 8px solid rgba(255, 255, 255, 0.35);
+    }
+    h2{
+      font-size: 3rem;
+      margin: 0;
+      font-weight: 600;
+    }
+
+    h4{
+      margin: 0;
+      font-size: 1.3rem;
+      font-weight: 500;
+      color: rgb(158,158,158);
+    }
+
+    .stats{
+      display: flex;
+      justify-content: space-evenly;
+      padding: 2rem 0px;
+
+      h3{
+        font-weight: 400;
+        font-size: 3rem;
+        margin: 0;
+      }
+
+      h6{
+        margin: 0;
+        font-size: 1rem;
+        color: rgb(158,158,158);
+      }
+    }
+  }
+}

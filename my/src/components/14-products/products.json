@@ -1,0 +1,38 @@
+[
+  {"id": "1",
+    "image": "img.png",
+    "title": "Anker Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 59
+  },
+  {"id": "2",
+    "image": "img_1.png",
+    "title": "Philips Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 55
+  },
+  {"id": "3",
+    "image": "img_2.png",
+    "title": "JBC Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 95
+  },
+  {"id": "4",
+    "image": "img_3.png",
+    "title": "Blueberry Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 40
+  },
+  {"id": "5",
+    "image": "img_4.png",
+    "title": "Hydra Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 25
+  },
+  {"id": "6",
+    "image": "img_5.png",
+    "title": "Apple Soundcore",
+    "desc" : "Hybrid active Noise Canceling Headphones",
+    "price" : 159
+  }
+]

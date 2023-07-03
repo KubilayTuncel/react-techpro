@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "bootstrap/scss/bootstrap.scss"
+// import "bootstrap" ; bu import eger bootstarp satic olarak kullanilacaksa Javascripti etkinlestirmek icin kullanilir
+//Dinamik yapida buna gerek yoktur.
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
