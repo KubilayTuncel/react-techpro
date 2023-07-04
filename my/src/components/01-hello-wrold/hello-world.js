@@ -27,6 +27,9 @@ import Birthday from "../17-birthday/birthday";
 import Clock3 from "../19-clock3/clock3";
 import Useeffect2 from "../18-useeffect/useeffect2";
 import CountryFilter from "../20-country-filter/country-filter";
+import UseRef from "../21-useref/useref";
+import Scroll from "../21-useref/scroll";
+import ClassComp from "../22-class-type-component/class-comp";
 
 const HelloWorld = ()=>{
     return(
@@ -58,8 +61,11 @@ const HelloWorld = ()=>{
             <Birthday/>
             <Clock3/>
             <Useeffect2/>
+            <CountryFilter/>
+            <UseRef/>
+            <Scroll/>
             */}
-           <CountryFilter/>
+           <ClassComp/>
         </div>
     )
 }
