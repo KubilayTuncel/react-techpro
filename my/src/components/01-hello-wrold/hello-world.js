@@ -30,6 +30,7 @@ import CountryFilter from "../20-country-filter/country-filter";
 import UseRef from "../21-useref/useref";
 import Scroll from "../21-useref/scroll";
 import ClassComp from "../22-class-type-component/class-comp";
+import Script from "../scrpit/script";
 
 const HelloWorld = ()=>{
     return(
@@ -64,8 +65,9 @@ const HelloWorld = ()=>{
             <CountryFilter/>
             <UseRef/>
             <Scroll/>
+             <ClassComp/>
             */}
-           <ClassComp/>
+          <Script/>
         </div>
     )
 }
